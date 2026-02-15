@@ -1,9 +1,9 @@
-# VĀṆĪ (वाणी)
+# VAANI (वाणी)
 ### India’s Living Knowledge Infrastructure
 
-> **"VĀṆĪ ensures that when the last elder speaks, India listens — and remembers."**
+> **"VAANI ensures that when the last elder speaks, India listens — and remembers."**
 
-VĀṆĪ is a voice-first AI platform that transforms vanishing indigenous oral knowledge into structured, searchable, and ethically governed digital intelligence.
+VAANI is a voice-first AI platform that transforms vanishing indigenous oral knowledge into structured, searchable, and ethically governed digital intelligence.
 
 ---
 
@@ -13,7 +13,7 @@ VĀṆĪ is a voice-first AI platform that transforms vanishing indigenous oral 
 * **Modern AI Bias:** Current LLMs focus on urban, text-heavy data, ignoring 19,500+ Indian dialects.
 
 ## 🔷 The Solution
-VĀṆĪ treats **audio as the primary truth**. It captures natural speech from elders and layers it with AI-generated metadata, creating a "structured civilizational memory" rather than just a media archive.
+VAANI treats **audio as the primary truth**. It captures natural speech from elders and layers it with AI-generated metadata, creating a "structured civilizational memory" rather than just a media archive.
 
 ---
 
@@ -43,8 +43,8 @@ VĀṆĪ treats **audio as the primary truth**. It captures natural speech from 
 
 ---
 
-## 🔷 Why VĀṆĪ?
-| Traditional Archives | VĀṆĪ Infrastructure |
+## 🔷 Why VAANI?
+| Traditional Archives | VAANI Infrastructure |
 | :--- | :--- |
 | Text-centric | **Voice-native** |
 | Static media files | **Searchable, structured datasets** |
@@ -54,10 +54,10 @@ VĀṆĪ treats **audio as the primary truth**. It captures natural speech from 
 ---
 
 ## 🔷 Implementation Setup
-1. **Clone:** `git clone https://github.com/org/vani.git`
+1. **Clone:** `git clone https://github.com/org/vaani.git`
 2. **Backend:** `pip install -r requirements.txt` | `uvicorn main:app`
 3. **Frontend:** `npm install` | `npx expo start`
 4. **Env:** Configure `AWS_ACCESS_KEY` for Transcribe and S3 services.
 
 ---
-**VĀṆĪ: Preserving the past to power an inclusive future.**
+**VAANI: Preserving the past to power an inclusive future.**
